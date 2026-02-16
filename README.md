@@ -34,9 +34,6 @@ Recommended structure:
 
 ---
 
-
----
-
 ## Dataset Overview
 
 **Source & method of acquisition:**  
