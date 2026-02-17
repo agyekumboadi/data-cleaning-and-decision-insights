@@ -4,6 +4,22 @@ Applied analytics case studies focused on **data cleaning, statistical testing, 
 
 ---
 
+## Impact Summary
+
+This applied analytics case study demonstrates how structured data cleaning, 
+statistical modelling, and exponential regression analysis were used to 
+transform a 19,230-row eBay dataset into actionable strategic insight.
+
+After reducing the dataset to 11,018 clean observations, an exponential model 
+achieved an R² ≈ 0.9913, showing a strong relationship between seller rating 
+and review volume (proxy for purchasing behaviour).
+
+The findings support a strategic marketplace decision: small improvements in 
+seller rating near high-performance levels can produce disproportionately 
+large gains in customer engagement and trust.
+
+---
+
 ## Project Snapshot
 
 **Business question:**  
