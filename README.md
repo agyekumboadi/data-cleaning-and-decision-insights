@@ -4,10 +4,8 @@ Applied analytics case studies focused on **data cleaning, statistical testing, 
 
 ---
 
-## Key Visual Evidence
-
 <details>
-  <summary><b>Key Visual Evidence (click to expand)</b></summary>
+  ## <summary><b>Key Visual Evidence (click to expand)</b></summary>
 
   <br>
 
